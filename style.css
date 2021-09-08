@@ -3,7 +3,7 @@ body,html{
 }
 body{
     font-family: 'Baloo Bhai 2', cursive;
-    background-image: url("img/img.jpg");
+    background-image: url("img.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
